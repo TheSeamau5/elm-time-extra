@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "helpful summary of your project, less than 80 characters",
-    "repository": "https://github.com/USER/PROJECT.git",
+    "summary": "Extra time functions",
+    "repository": "https://github.com/TheSeamau5/elm-time-extra.git",
     "license": "BSD3",
     "source-directories": [
         "src"
